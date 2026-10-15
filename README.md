@@ -1,11 +1,30 @@
+# Hi, I'm Junyoung Yoon 👋
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Junyoung Yoon](https://www.linkedin.com/in/junyoung-yoon-a6a505194/)) 
+**Python · Machine Learning · Cloud · Data Analytics**
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+Based in Seoul, South Korea · Kearney
 
----
-[![](https://visitcount.itsvg.in/api?id=jyoon0808&icon=0&color=0)](https://visitcount.itsvg.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Junyoung%20Yoon-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junyoung-yoon-a6a505194/)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About me
+
+My technical toolkit spans Python, machine learning, cloud platforms, and data analytics.
+
+- **Professional background:** Kearney
+- **Education:** University of California, Berkeley
+- **Languages:** Korean (native), English (advanced), Chinese (working proficiency)
+
+## Tech stack
+
+| Area | Technologies |
+| --- | --- |
+| Programming | Python |
+| Machine learning | PyTorch, TensorFlow, Keras |
+| ML lifecycle | MLflow |
+| Cloud | AWS, Microsoft Azure, Google Cloud |
+| Databases & search | PostgreSQL, MongoDB, Elasticsearch |
+| Visualization & BI | Matplotlib, Power BI |
+
+## Connect
+
+Find more about my experience on [LinkedIn](https://www.linkedin.com/in/junyoung-yoon-a6a505194/).
